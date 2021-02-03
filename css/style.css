@@ -1322,7 +1322,7 @@ article {
   position: absolute;
   left: 0;
   top: 0;
-  background: #0e0e0e;
+  /* background: #0e0e0e; */
   overflow: hidden;
 }
 .slider .swiper-container .swiper-slide {
@@ -1636,7 +1636,7 @@ canvas {
   text-align: center;
   overflow: hidden;
   position: relative;
-  background: #0e0e0e;
+  /* background: #0e0e0e; */
   opacity: 0.8;
 }
 .video-bg video {
@@ -1724,7 +1724,7 @@ canvas {
   flex-wrap: wrap;
   align-items: center;
   position: relative;
-  background: #000000;
+  background: #0e0e0e;
   overflow: hidden;
 }
 .page-header .video-bg {
@@ -1746,6 +1746,7 @@ canvas {
   position: absolute;
   left: 50%;
   top: 50%;
+  background: #0e0e0e;
   transform: translateX(-50%) translateY(-50%);
 }
 .page-header .container {
@@ -3228,7 +3229,7 @@ canvas {
 
   .left-side-content {
     padding: 60px 40px;
-    background: #4237ef;
+    background:rgb(34, 136, 34);
   }
 
   .left-side-content:before {
