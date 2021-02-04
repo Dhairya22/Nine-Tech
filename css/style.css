@@ -1716,6 +1716,7 @@ canvas {
   position: relative;
 }
 
+
 /* PAGE HEADER */
 .page-header {
   width: 100%;
@@ -2404,7 +2405,7 @@ canvas {
   width: 100%;
   display: block;
   margin-bottom: 30px;
-  font-size: 12px;
+  font-size: 15px;
 }
 .works-content1 ul {
   padding-left: 20px;
