@@ -326,7 +326,7 @@
 
 /* wrap-price-table */
 .wrap-price-table {
-    width: 25%;
+    /* width: 25%; */
     float: left;
 }
 
@@ -358,7 +358,7 @@
 }
 
 .flat-price-table.bg-2d3c49 ul.price-table-list li:nth-child(2n+1) {
-    background-color: #283542;
+    background-color: #f1f1f1;
 }
 
 .flat-price-table.bg-2d3c49 .hot:before {
