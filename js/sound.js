@@ -5,7 +5,7 @@ $(".sound .equalizer").on('click', function(e) {
     })
 });
 
-var source = "audio/audio01.mp3";
+var source = "audio/MusicBedSoothingM SDT052201.wav";
     var audio = new Audio(); // use the constructor in JavaScript, just easier that way
     audio.addEventListener("load", function() {
         audio.play();
