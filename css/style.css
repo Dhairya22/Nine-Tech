@@ -1649,6 +1649,7 @@ canvas {
   top: 50%;
   transform: translateX(-50%) translateY(-50%);
 }
+
 .video-bg .container {
   position: relative;
   -webkit-transition: all 0.25s ease-in-out;
